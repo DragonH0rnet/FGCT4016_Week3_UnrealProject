@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2403782\\documents\\github\\fgct4016_week3_unrealproject\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\combatplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2403782\\documents\\github\\fgct4016_week3_unrealproject\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\2403782\\documents\\github\\fgct4016_week3_unrealproject\\myproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\users\\2403782\\documents\\github\\fgct4016_week3_unrealproject\\myproject\\source\\myproject\\variant_combat\\combatplayercontroller.h",
+            "c:\\users\\2403782\\documents\\github\\fgct4016_week3_unrealproject\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\combatplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
